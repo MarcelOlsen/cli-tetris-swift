@@ -39,6 +39,12 @@ All in all, a fun two day project to laern Swift and google stuff for many hours
    ./tetris
    ```
 
+### Or simply without building
+
+```sh
+swift main.swift
+```
+
 ## Controls
 
 - `a`: Move piece left
