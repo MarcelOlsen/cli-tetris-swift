@@ -24,7 +24,7 @@ All in all, a fun two day project to laern Swift and google stuff for many hours
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/shitty-terminal-game.git
+   git clone https://github.com/MarcelOlsen/cli-tetris-swift.git
    cd shitty-terminal-game
    ```
 
